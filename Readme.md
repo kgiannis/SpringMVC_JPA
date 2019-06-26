@@ -1,7 +1,7 @@
 # Spring MVC + JPA + MySQL + JSP + Bootstrap 
 ---
 
-This is a _MAVEN_ Spring MVC project demonstrating the use of **Spring** with **MySQL** and **Bootstrap**.
+Spring MVC project demonstrating the usage of **Spring** with **MySQL** and **Bootstrap**.
  Java based configuration for a simple CRUD application.
  Tested on Tomcat 8.0.41
 
